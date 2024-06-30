@@ -1,0 +1,10 @@
+{
+    "script": "./bin/www",
+    "watch": true,
+    "ignore_watch": ["node_modules", "public"],
+    "watch_options": {
+      "followSymlinks": false
+    },
+    "name": "onasasa"
+  }
+  
